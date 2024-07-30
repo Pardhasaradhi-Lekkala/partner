@@ -1,1 +1,1 @@
-# partner
+# mi.partner.signulu
